@@ -22,7 +22,7 @@ struct RecipeCards: View {
     var completed: () -> Void
     
     func fetchInstructions(for id: Int) {
-        let APIKey = "3d090e7fc98046109f1f64336ca233ba"
+        let APIKey = ""
         guard let url = URL(string: "https://api.spoonacular.com/recipes/\(id)/analyzedInstructions?apiKey=\(APIKey)") else {return}
         URLSession.shared.dataTask(with: url) {data, response, error in
             guard let data = data else {
