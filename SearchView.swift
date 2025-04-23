@@ -20,7 +20,7 @@ struct SearchView: View {
     
     @Binding var imageName: String
 
-    let apiKey = "3d090e7fc98046109f1f64336ca233ba"
+    let apiKey = ""
 
 
     
@@ -95,7 +95,7 @@ struct SearchResults: View {
     
     @State private var recipes: [Recipe] = []
     
-    let apiKey = "3d090e7fc98046109f1f64336ca233ba"
+    let apiKey = ""
     
     func fetchRecipes() {
         let q: String = (keyword.isEmpty ? type : "\(keyword) \(type)")
