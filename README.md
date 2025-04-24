@@ -1,4 +1,4 @@
-# bakemate-app
+# BakeMate 
 BakeMate
 <img width="202" alt="Screenshot 2
 
