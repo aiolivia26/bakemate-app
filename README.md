@@ -1,6 +1,5 @@
 # BakeMate 
 BakeMate
-<img width="202" alt="Screenshot 2
 
 https://github.com/user-attachments/assets/7b627648-3308-4ea4-adc9-697e4d7cb529
 
