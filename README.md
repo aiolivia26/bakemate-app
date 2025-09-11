@@ -9,7 +9,7 @@ Key Features:
 Baking Timer, access to a variety of recipes with advanced search, instructions, and ingredients for each recipe
 
 Future Additions:
-In the future, I would want to add the hamster as a 'BakeMate' and add a few animations. I would also like to make the UI better structured. 
+I would also like to make the UI better structured. 
 
 Challenges Faced:
 I had a few challenges with implementing the API. First of all, I did not realize that the API I was pulling from had a limit on the number of requests. Also, I struggled a bit with the formatting. 
